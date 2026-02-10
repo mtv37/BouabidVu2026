@@ -69,5 +69,6 @@ This repository is released under the [MIT License](https://opensource.org/licen
 ------------------
 ## Acknowledgements
 
-This research was funded in whole by Aligning Science Across Parkinson’s **[ASAP-020370; ASAP-025192]** through the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
+This work was supported by the following funding sources: MWH - Aligning Science Across Parkinson’s **(ASAP-020370; ASAP-025192)** through the Michael J. Fox Foundation for Parkinson’s Research (MJFF), National Institute of Mental Health **(R01 MH125835)**, Whitehall Foundation Fellowship, Klingenstein-Simons Foundation Fellowship, Parkinson’s Foundation (Stanley Fahn Junior Faculty Award, **PF-SF-JFA-836662**); MTV - NIMH **F32MH120894**.
+
   
