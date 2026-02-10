@@ -62,7 +62,7 @@ Any operating system able of running Matlab R2020b.
  
 If you use use this code in your research, please cite: 
 
-Safa Bouabid1, Mai-Anh T. Vu1, Christian Noggle, Stefania Vietti-Michelina, Katherine Brimblecomb, Nicola Platt, Liangzhu Zhang, Anil Joshi, Stephanie Cragg, and Mark W. Howe.  (2026) [An anatomical hotspot for striatal dopamine-acetylcholine interactions during reward and movement](https://doi.org/10.64898/2026.01.20.700614).
+Safa Bouabid*, Mai-Anh T. Vu*, Christian Noggle, Stefania Vietti-Michelina, Katherine Brimblecomb, Nicola Platt, Liangzhu Zhang, Anil Joshi, Stephanie Cragg, and Mark W. Howe.  (2026) [An anatomical hotspot for striatal dopamine-acetylcholine interactions during reward and movement](https://doi.org/10.64898/2026.01.20.700614).
 
 This repository is released under the [MIT License](https://opensource.org/license/mit) - see the [LICENSE](LICENSE) file for details.
 
