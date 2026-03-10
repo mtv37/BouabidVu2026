@@ -12,6 +12,8 @@
 ------------------
 ## Project Overview
 
+These scripts were custom-written by Mai-Anh Vu, except where indicated otherwise, to analyze the data [Bouabid & Vu et al. (2026) An anatomical hotspot for striatal dopamine-acetylcholine interactions during reward and movement](https://www.biorxiv.org/content/10.64898/2026.01.20.700614v1).
+
 The code included in this repository assumes data organization as detailed below in the Data Organization section. 
 1. Preprocess:
    - batch_preprocess: calls preprocess_data to loop over data and run preprocess_data.
@@ -21,7 +23,6 @@ The code included in this repository assumes data organization as detailed below
 3. Analysis/common_functions:
    - functions shared across analyses
   
-These scripts were custom-written by Mai-Anh Vu, except where indicated otherwise, and used in the study [Bouabid & Vu et al. (2026) An anatomical hotspot for striatal dopamine-acetylcholine interactions during reward and movement](https://www.biorxiv.org/content/10.64898/2026.01.20.700614v1).
 
 ------------------
 ## Data Organization
