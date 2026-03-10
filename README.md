@@ -46,7 +46,7 @@ The code included in this repository assume the following data organization:
 ------------------
 ## Data Availability
 
-Both raw datasets and processed and organized datasets are available at DANDI Archive (add Link).
+Both raw datasets and processed and organized datasets are available as a [DANDI Archive](https://dandiarchive.org/dandiset/001692/0.260303.1724).
 
 ------------------
 ## System Requirements
@@ -55,7 +55,20 @@ Any operating system able of running Matlab R2020b.
 
 **Hardware requirement** : RAM (64GB), processor: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz   3.19 GHz. 
 
-**Software requirement**:  MATLAB can be installed on machines running Windows. MATLAB software requires a paid subscription to be used.
+**Software requirements**:  MATLAB can be installed on machines running Windows. MATLAB software requires a paid subscription to be used.
+
+MATLAB2020b:
+- This code was written and executed in MATLAB2020b. It has not been tested for compatibility with other versions. MATLAB software requires a paid subscription to be used.
+
+MATLAB toolboxes:
+- Curve Fitting Toolbox
+- Image Processing Toolbox
+- Parallel Computing Toolbox
+- Signal Processing Toolbox
+- Statistics and Machine Learning Toolbox
+  
+Other dependencies:
+- [Red Blue Colormap](https://www.mathworks.com/matlabcentral/fileexchange/25536-red-blue-colormap)
 
 ------------------
 ##  License and Citation
